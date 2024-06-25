@@ -2,15 +2,6 @@
 
 A full-featured social network platform that allows users to connect, share, and communicate. This project aims to provide a robust and user-friendly interface for social networking.
 
-## Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 - User registration and authentication
 - User profile creation and management
